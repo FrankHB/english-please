@@ -1,27 +1,27 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 # English Please 
 
-(I will add chinese version of this repo as soon as possible for Chinese friends to understand better.)
+(I will add Chinese version of this repo as soon as possible for Chinese friends to understand better.)
 
-**This is an offer for repositories whose README are written in Chinese.**
+**This is an offer for repositories whose READMEs are written in Chinese.**
 
-Most people are disappointed when they see too many Chinese repos on Github trendings. There are only a limited number of trending repos and it is not possible to read close to half of them. This upsets most developers and ruins their habit of checking trending repos to discover more great open software.
+Most people are disappointed when they see too many Chinese repos on [GitHub trending](https://github.com/trending). There are only a limited number of trending repos and it is not possible to read close to half of them. This upsets most developers and ruins their habit of checking trending repos to discover more great open software.
 
 This script checks the trending repos and it will automatically open an issue to the Chinese language repos requesting for English translation. 
 
 For installation check [installation.md](https://github.com/us/hey-dude/blob/master/installation.md)
 
-_[issue_body.md](https://github.com/us/hey-dude/blob/master/issue_body.md) is a issue context._
+_[issue_body.md](https://github.com/us/hey-dude/blob/master/issue_body.md) is an issue context._
 
 _[created_repo_issues.md](https://github.com/us/hey-dude/blob/master/created_repo_issues.md) contains opened repos issues._
 
-**Note :** If you see any Chinese repos that seems interesting to you, you can use `issue_body.md` to open an issue to that repo.
+**Note :** If you see any Chinese repo that seems interesting to you, you can use `issue_body.md` to open an issue to that repo.
 
 We want to say just one thing:
 
 ---
 
-### What is the problem with Chinese README's
+### What is the problem with Chinese READMEs
 
 Firstly, we congratulate you for getting so much star by sharing this repository with humanity.
 
